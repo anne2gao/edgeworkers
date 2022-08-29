@@ -1,4 +1,4 @@
 {
-    "edgeworker-version": "1.7",
+    "edgeworker-version": "1.9",
     "description": "Redirects with EdgeKV"
 }
